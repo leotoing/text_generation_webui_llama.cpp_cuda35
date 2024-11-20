@@ -1,0 +1,19 @@
+Flask==2.3.*
+flask-cloudflared==0.0.14
+sse-starlette==1.6.5
+Jinja2==3.1.2
+Werkzeug==2.3.*
+requests
+tqdm
+colorama
+rich
+gradio==4.26.*
+markdown
+numpy==1.23.*  # Compatible CUDA 3.5
+pandas
+scipy==1.9.*  # Compatible CUDA 3.5
+sentencepiece
+safetensors
+transformers==4.26.*
+huggingface-hub
+datasets
